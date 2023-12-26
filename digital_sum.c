@@ -1,9 +1,11 @@
 #include <stdio.h>
 
-// adds up the sum of the digits in any int, and keeps adding them up until they are a single digit
-// example 79
-// 7 + 9 = 16
-// 1 + 6 = 7
+/*
+adds up the sum of the digits in any int, and keeps adding them up until they are a single digit
+example 79
+7 + 9 = 16
+1 + 6 = 7
+*/
 
 int digital_root(int n) {
     if (n < 10) return n;
@@ -14,6 +16,7 @@ int digital_root(int n) {
 
 void main() {
 
-    printf("%d\n", digital_root(299));
+    printf("%d\n", digital_root(79)); // 7
+    printf("%d\n", digital_root(299)); // 2 + 9 + 9 = 20, 2 + 0 = 2
 
 }
