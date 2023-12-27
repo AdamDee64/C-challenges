@@ -8,7 +8,8 @@ Case insensitive, ignores non-letter characters.
 */ 
 
 char *alphabet_position(const char *text) {
-    int i, m = 0;
+    int i = 0;
+    int m = 0;
     char *output = malloc(m);
 
     while(1){
