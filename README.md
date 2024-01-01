@@ -7,3 +7,4 @@ Assorted coding challenges in the C programming language<br>
 <b>sort_odd.c</b> - sorts the odd numbers in an array of integers, leaving the even numbers in their original position<br>
 <b>bouncing_ball.c</b> - counts how many times a ball will reach a certain height based on drop height and energy loss per bounce<br>
 <b>scramble.c</b> - determines if there are enough characters of the correct type in one string to make up the other string - two solutions<br>
+<b>seconds_time.c</b> - returns a string representing time based on seconds entered into a function, up to 99:59:59<br>
