@@ -11,8 +11,10 @@ export SORT_ODD=sort_odd
 export BOUNCING_BALL=bouncing_ball
 export SCRAMBLE=scramble
 export SECONDS_TIME=seconds_time
+export GREED_DICE=greed
+export GROCERIES=groceries
 
-export _FILENAME_=$SECONDS_TIME
+export _FILENAME_=$GROCERIES
 
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
