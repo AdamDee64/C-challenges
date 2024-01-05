@@ -10,4 +10,6 @@ Assorted coding challenges in the C programming language<br>
 <b>seconds_time.c</b> - returns a string representing time based on seconds entered into a function, up to 99:59:59<br>
 <b>greed.c</b> - a function that returns the total score of 5 rolls of six-sided dice. scoring is based on a game called Greed<br>
 <b>groceries.c</b> - a function that returns the amount of time it takes to process customers at a grocery store based on number of customers and tills opened<br>
+<b>ip_address.c</b> - a function that takes in two IP addresses and returns the number of possible unique ip addresses that fall with their range<br>
+<b>snakes_ladders.c</b> - A game of snakes and ladders<br>
 <b></b><br>

@@ -13,9 +13,10 @@ export SCRAMBLE=scramble
 export SECONDS_TIME=seconds_time
 export GREED_DICE=greed
 export GROCERIES=groceries
+export IP_ADDRESS=ip_address
+export SNAKES_LADDERS=snakes_ladders
 
-export _FILENAME_=$GROCERIES
-
+export _FILENAME_=$SNAKES_LADDERS
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
 if test -f $_DIR_$_FILENAME_; then $_DIR_$_FILENAME_; fi
