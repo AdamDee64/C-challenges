@@ -15,8 +15,12 @@ export GREED_DICE=greed
 export GROCERIES=groceries
 export IP_ADDRESS=ip_address
 export SNAKES_LADDERS=snakes_ladders
+export BEER_PYRAMID=beer_pyramid
+export NEXT_PERFECT_SQUARE=next_perfect_square
+export MIDDLE_CHAR=middle_character
+export INITIALS=initials
 
-export _FILENAME_=$SNAKES_LADDERS
+export _FILENAME_=$INITIALS
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
 if test -f $_DIR_$_FILENAME_; then $_DIR_$_FILENAME_; fi

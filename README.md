@@ -12,4 +12,8 @@ Assorted coding challenges in the C programming language<br>
 <b>groceries.c</b> - a function that returns the amount of time it takes to process customers at a grocery store based on number of customers and tills opened<br>
 <b>ip_address.c</b> - a function that takes in two IP addresses and returns the number of possible unique ip addresses that fall with their range<br>
 <b>snakes_ladders.c</b> - A game of snakes and ladders<br>
+<b>beer_pyramid.c</b> - a function that returns the height of a pyramid that can be built with beer cans based on budget and price per beer<br>
+<b>next_perfect_square.c</b> - a function that takes in a perfect square number and returns the next perfect square<br>
+<b>middle_character.c</b> - returns the middle character of a given string<br>
+<b>initials.c</b> - returns the capitalized initials of a two-part name given as a string<br>
 <b></b><br>
