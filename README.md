@@ -16,4 +16,7 @@ Assorted coding challenges in the C programming language<br>
 <b>next_perfect_square.c</b> - a function that takes in a perfect square number and returns the next perfect square<br>
 <b>middle_character.c</b> - returns the middle character of a given string<br>
 <b>initials.c</b> - returns the capitalized initials of a two-part name given as a string<br>
+<b>century.c</b> - a function that returns a century based on the year given as an argument<br>
+<b>bad_hello.c</b> - a purposefully bad and inefficient hello world<br>
+
 <b></b><br>

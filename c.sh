@@ -19,8 +19,10 @@ export BEER_PYRAMID=beer_pyramid
 export NEXT_PERFECT_SQUARE=next_perfect_square
 export MIDDLE_CHAR=middle_character
 export INITIALS=initials
+export CENTURY=century
+export BAD_HELLO=bad_hello
 
-export _FILENAME_=$INITIALS
+export _FILENAME_=$BAD_HELLO
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
 if test -f $_DIR_$_FILENAME_; then $_DIR_$_FILENAME_; fi
