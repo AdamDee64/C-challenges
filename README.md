@@ -18,5 +18,5 @@ Assorted coding challenges in the C programming language<br>
 <b>initials.c</b> - returns the capitalized initials of a two-part name given as a string<br>
 <b>century.c</b> - a function that returns a century based on the year given as an argument<br>
 <b>bad_hello.c</b> - a purposefully bad and inefficient hello world<br>
-
+<b>is_odd_string.c</b> - a function that checks if an integer entered as a string is odd or even<br>
 <b></b><br>
