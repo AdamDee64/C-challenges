@@ -24,8 +24,11 @@ export BAD_HELLO=bad_hello
 export IS_ODD_STRING=is_odd_string
 export LONG_TO_IP4=long_to_ip4
 export HIGHEST=highest
+export SUMTO=sumto
+export PRINTER_ERROR=printer_error
+export LIKES=likes
 
-export _FILENAME_=$HIGHEST
+export _FILENAME_=$LIKES
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
 if test -f $_DIR_$_FILENAME_; then $_DIR_$_FILENAME_; fi

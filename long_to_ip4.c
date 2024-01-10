@@ -1,12 +1,14 @@
 #include <inttypes.h>
 #include <stdio.h>
 
+/*
+function takes in a 32 bit unsighned integer and a pointer
+to a string and will change that string to a valid IP address
+*/
+
 void uint32_to_ip (uint32_t number, char *IPv4)
 {
-// write to IPv4
-  
-  
-  // 11111111 00000000 00000000 00000000
+
   *IPv4 = '\0';
   sprintf(IPv4, 
           "%d.%d.%d.%d", 

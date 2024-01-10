@@ -20,7 +20,8 @@ Assorted coding challenges in the C programming language<br>
 <b>bad_hello.c</b>          - a purposefully bad and inefficient hello world<br>
 <b>is_odd_string.c</b>      - a function that checks if an integer entered as a string is odd or even<br>
 <b>long_to_ip4.c</b>        - a function that takes in an unsigned 32 bit integer and returns a valid IP address<br>
-<b>highest.c</b> - <br>     - function that takes in an integer and returns the highest possible integer possible with the digits 
-
-
+<b>highest.c</b>            - function that takes in an integer and returns the highest possible integer possible with the digits <br>
+<b>sumto.c</b>              - returns a sum of all numbers between 0 and the number being passed into the function. Positive integers only<br>
+<b>printer_error.c</b>      - a function that returns a string representing the number of printer orrors in a passed in string<br>
+<b>likes.c</b>              - a function that takes in a list of names of people who "liked" a comment and returns a report<br>
 <b></b><br>
