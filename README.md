@@ -24,4 +24,6 @@ Assorted coding challenges in the C programming language<br>
 <b>sumto.c</b>              - returns a sum of all numbers between 0 and the number being passed into the function. Positive integers only<br>
 <b>printer_error.c</b>      - a function that returns a string representing the number of printer orrors in a passed in string<br>
 <b>likes.c</b>              - a function that takes in a list of names of people who "liked" a comment and returns a report<br>
+<b>str_to_int.c</b>         - a function that converts a number written as a string to an integer, signed or unsigned<br>
+<b>remove_vowels.c</b>      - a function that takes in a string and returns it as a new string but with the vowels removed<br>
 <b></b><br>

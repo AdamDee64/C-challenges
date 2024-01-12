@@ -27,8 +27,11 @@ export HIGHEST=highest
 export SUMTO=sumto
 export PRINTER_ERROR=printer_error
 export LIKES=likes
+export STR_TO_INT=str_to_int
+export REMOVE_VOWELS=remove_vowels
+export REVERSE_STRING=reverse_string
 
-export _FILENAME_=$LIKES
+export _FILENAME_=$REVERSE_STRING
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
 if test -f $_DIR_$_FILENAME_; then $_DIR_$_FILENAME_; fi
