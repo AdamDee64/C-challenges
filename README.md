@@ -26,4 +26,7 @@ Assorted coding challenges in the C programming language<br>
 <b>likes.c</b>              - a function that takes in a list of names of people who "liked" a comment and returns a report<br>
 <b>str_to_int.c</b>         - a function that converts a number written as a string to an integer, signed or unsigned<br>
 <b>remove_vowels.c</b>      - a function that takes in a string and returns it as a new string but with the vowels removed<br>
+<b>sum_positives.c</b>      - a function that returns the sum of positive values in an array<br>
+<b>count_by.c</b>           - a function that populates an array sequentially based on a number acting as a multiplier<br>
+<b>read_state.c</b>         - a function that returns true or false depening on the end state of 3 possible states<br>
 <b></b><br>

@@ -30,8 +30,11 @@ export LIKES=likes
 export STR_TO_INT=str_to_int
 export REMOVE_VOWELS=remove_vowels
 export REVERSE_STRING=reverse_string
+export SUM_POSITIVES=sum_positives
+export COUNT_BY=count_by
+export READ_STATE=read_state
 
-export _FILENAME_=$REVERSE_STRING
+export _FILENAME_=$READ_STATE
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
 if test -f $_DIR_$_FILENAME_; then $_DIR_$_FILENAME_; fi
