@@ -29,4 +29,7 @@ Assorted coding challenges in the C programming language<br>
 <b>sum_positives.c</b>      - a function that returns the sum of positive values in an array<br>
 <b>count_by.c</b>           - a function that populates an array sequentially based on a number acting as a multiplier<br>
 <b>read_state.c</b>         - a function that returns true or false depening on the end state of 3 possible states<br>
+<b>count_uppercase.c</b>    - a function that returns a non-zero value (true) if a character within a string is uppercase<br>
+<b>parse_int.c</b>          - function that takes in a number between one and one million written out as a string and returns the integer equivalent<br>
+<b>poker_hand.c</b>         - A function that compares poker hands passed as a string and finds the winner<br>
 <b></b><br>
