@@ -248,7 +248,6 @@ Result compare (char *player, char *opponent) {
     if(p_values[i] < o_values[i]) return Loss;
     i--;
   }
-
   return Tie;
 }
 
