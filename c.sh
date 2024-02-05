@@ -36,8 +36,9 @@ export READ_STATE=read_state
 export COUNT_UPPERCASE=count_uppercase
 export PARSE_INT=parse_int
 export POKER_HAND=poker_hand
+export SUM_ARRAY=sum_array
 
-export _FILENAME_=$PRINTER_ERROR
+export _FILENAME_=$SUM_ARRAY
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
 if test -f $_DIR_$_FILENAME_; then $_DIR_$_FILENAME_; fi

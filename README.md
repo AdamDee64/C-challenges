@@ -32,4 +32,5 @@ Assorted coding challenges in the C programming language<br>
 <b>count_uppercase.c</b>    - a function that returns a non-zero value (true) if a character within a string is uppercase<br>
 <b>parse_int.c</b>          - function that takes in a number between one and one million written out as a string and returns the integer equivalent<br>
 <b>poker_hand.c</b>         - A function that compares poker hands passed as a string and finds the winner<br>
+<b>sum_array.c</b>          - A function that sums up the integers in an array and returns the result<br>
 <b></b><br>
