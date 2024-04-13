@@ -34,4 +34,5 @@ Assorted coding challenges in the C programming language<br>
 <b>poker_hand.c</b>         - A function that compares poker hands passed as a string and finds the winner<br>
 <b>sum_array.c</b>          - A function that sums up the integers in an array and returns the result<br>
 <b>mult_array.c</b>         - A function that multiplies the integers in an array and returns the result<br>
+<b>make_uppercase.c</b>     - A function that converts an ascii string to all uppercase<br>
 <b></b><br>
