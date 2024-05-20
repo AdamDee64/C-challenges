@@ -35,4 +35,5 @@ Assorted coding challenges in the C programming language<br>
 <b>sum_array.c</b>          - A function that sums up the integers in an array and returns the result<br>
 <b>mult_array.c</b>         - A function that multiplies the integers in an array and returns the result<br>
 <b>make_uppercase.c</b>     - A function that converts an ascii string to all uppercase<br>
+<b>digital_numbers.c</b>    - A function that converts a string of numbers into a digital-like display in the console<br>
 <b></b><br>

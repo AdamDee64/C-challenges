@@ -39,8 +39,9 @@ export POKER_HAND=poker_hand
 export SUM_ARRAY=sum_array
 export MULT_ARRAY=mult_array
 export MAKE_UPPERCASE=make_uppercase
+export DIGITAL_NUMBERS=digital_numbers
 
-export _FILENAME_=$MAKE_UPPERCASE
+export _FILENAME_=$DIGITAL_NUMBERS
 if test -f $_DIR_$_FILENAME_; then rm $_DIR_$_FILENAME_; fi
 gcc -Os -W $_FILENAME_.c -o $_DIR_$_FILENAME_
 if test -f $_DIR_$_FILENAME_; then $_DIR_$_FILENAME_; fi
